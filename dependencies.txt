@@ -1,0 +1,16 @@
+npm install express
+
+npx express-generator --view=pug
+
+npm i async
+
+npm i compression
+
+npm i express-validator
+
+helmet
+ 
+luxon
+
+mongoose
+
